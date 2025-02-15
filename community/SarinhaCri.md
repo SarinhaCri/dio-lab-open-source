@@ -1,6 +1,6 @@
-Olá, eu sou a Sara Cristina!
+# Olá, eu sou a Sara Cristina!
 
-         Sobre mim
+# Sobre mim
 
 📚 Estudante de Sistemas de Informação
 🔧 Técnica em Informática
@@ -8,7 +8,7 @@ Olá, eu sou a Sara Cristina!
 💅 Entusiasta de cosméticos e cuidados com o cabelo (compartilho dicas nas redes sociais!)
 📚 Curiosa e sempre em busca de novos desafios
 
-         Habilidades
+# Habilidades
 
 ✨ Análise de Sistemas e de Dados
 🛠️ Gestão de Projetos
